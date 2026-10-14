@@ -1,0 +1,11 @@
+{
+  "name": "poceda-skills",
+  "owner": { "name": "Poceda" },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "source": "./plugins/my-skills",
+      "description": "Moje vlastní skilly"
+    }
+  ]
+}
